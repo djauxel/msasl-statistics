@@ -11,7 +11,9 @@ For more information visit [the website](https://www.microsoft.com/en-us/researc
 | MS-ASL1000 | 1000    | 222      | 25,513  | 24:39    | 25.5             |
 
 ## Dataset and its subset statistics (excluding privated and unlisted YouTube videos)
-The subsets after this table account for the privated and unlisted YouTube videos.
+Table here.
+
+The subsets after this table remove video samples that are privated and unlisted on YouTube.
 
 ### Train subset statistics
 Another table here.
